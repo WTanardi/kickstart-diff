@@ -1,4 +1,4 @@
-module kickstart-diff
+module github.com/WTanardi/kickstart-diff
 
 go 1.26.1
 
