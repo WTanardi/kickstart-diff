@@ -16,20 +16,20 @@ A CLI tool to compare your Neovim plugin configuration with [kickstart.nvim](htt
 ### Using Go
 
 ```bash
-go install github.com/yourname/kickstart-diff@latest
+go install github.com/WTanardi/kickstart-diff@latest
 ```
 
 ### From Source
 
 ```bash
-git clone https://github.com/yourname/kickstart-diff.git
+git clone https://github.com/WTanardi/kickstart-diff.git
 cd kickstart-diff
 go build -o kickstart-diff
 ```
 
 ### Download Binary
 
-Download the latest binary for your platform from the [releases page](https://github.com/yourname/kickstart-diff/releases).
+Download the latest binary for your platform from the [releases page](https://github.com/WTanardi/kickstart-diff/releases).
 
 ## Usage
 
